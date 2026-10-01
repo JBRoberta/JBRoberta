@@ -1,8 +1,7 @@
-# 💫 About Me:
-<h1 align="center">👋 Hey, I'm Júlia!</h1>
+<h1 align="center"> ✨ Hey, I'm Júlia!</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/sek8J1VgFQsAAAAd/hey-wave.gif" width="300" alt="Hey, wave!">
+  <img src="https://media1.tenor.com/m/tbIhbZ5L5CIAAAAd/dog.gif">
 </p>
 
 ---
