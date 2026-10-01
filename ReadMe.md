@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Júlia!</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/tbIhbZ5L5CIAAAAd/dog.gif" alt="dog gif" width="300"/>
+  <img src="(https://tenor.com/view/friends-phoebe-rachel-excited-yay-gif-6166752637746503456)"/>
 </p>
 
 ---
