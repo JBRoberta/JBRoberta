@@ -22,23 +22,7 @@ What drives me is simple: **I'd rather try, fall, and fly than never leave the g
 
 ---
 
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/juliarb-bickel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:jbroberta26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
-
-**Comfortable with:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Currently learning / basic knowledge:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,6 +33,9 @@ What drives me is simple: **I'd rather try, fall, and fly than never leave the g
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Comfortable with:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
@@ -61,6 +48,19 @@ What drives me is simple: **I'd rather try, fall, and fly than never leave the g
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=JBRoberta&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/juliarb-bickel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jbroberta26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
